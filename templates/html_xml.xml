@@ -1,0 +1,16 @@
+<templateSet group="html/xml">
+  <template name="rort" value="&lt;% $CONTENT$ %&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="RHTML" value="true" />
+    </context>
+  </template>
+  <template name="rorte" value="&lt;%= $CONTENT$ %&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="RHTML" value="true" />
+    </context>
+  </template>
+</templateSet>

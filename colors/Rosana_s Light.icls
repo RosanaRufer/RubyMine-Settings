@@ -1,0 +1,49 @@
+<scheme name="Rosana's Light" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-02-13T16:11:54</property>
+    <property name="ide">Ruby</property>
+    <property name="ideVersion">2017.3.2.0.0</property>
+    <property name="modified">2018-02-13T16:17:42</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <colors>
+    <option name="HTML_TAG_TREE_LEVEL0" value="" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="" />
+  </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value />
+    </option>
+    <option name="RHTML_SCRIPTLET_END_ID">
+      <value>
+        <option name="BACKGROUND" value="f2e8e4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RHTML_SCRIPTLET_START_ID">
+      <value>
+        <option name="BACKGROUND" value="f2e8e4" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_HASH_ASSOC">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="RUBY_METHOD_NAME">
+      <value>
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
