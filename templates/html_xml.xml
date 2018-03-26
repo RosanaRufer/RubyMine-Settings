@@ -13,13 +13,13 @@
       <option name="RHTML" value="true" />
     </context>
   </template>
-  <template name="ctagi" value="&lt;%= $VALUE$ %&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="ctagi" value="&lt;%= $VALUE$ %&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
   </template>
-  <template name="ctag" value="&lt;% $VALUE$ %&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="ctag" value="&lt;% $VALUE$ %&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
