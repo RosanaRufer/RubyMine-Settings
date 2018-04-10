@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="copy.rb" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern="zz" type="Ruby" />
     </extensionMap>
   </component>
 </application>
