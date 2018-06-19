@@ -998,6 +998,16 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/cloudconvert-ruby-4a9d52571581/bin" />
       </SOURCES>
     </library>
+    <library name="cloudconvert-ruby (v0.2.0, rbenv: 2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/cloudconvert-ruby-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/cloudconvert-ruby-0.2.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/cloudconvert-ruby-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/cloudconvert-ruby-0.2.0/bin" />
+      </SOURCES>
+    </library>
     <library name="cocoon (v1.2.11, rbenv: 2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/gems/cocoon-1.2.11/gemfiles" />
